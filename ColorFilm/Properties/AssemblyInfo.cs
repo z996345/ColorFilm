@@ -8,9 +8,9 @@ using System.Windows;
 // 變更這些屬性的值即可修改組件的相關
 // 資訊。
 [assembly: AssemblyTitle("ColorFilm")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Create By Michael Huang")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("none")]
 [assembly: AssemblyProduct("ColorFilm")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
